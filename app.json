@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "LUMORA",
+    "slug": "lumora-entertainment",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#171321",
+    "primaryColor": "#7560B9",
+    "android": {
+      "package": "com.lumora.entertainment",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#28213B"
+      }
+    },
+    "splash": {
+      "backgroundColor": "#28213B"
+    },
+    "plugins": []
+  }
+}
